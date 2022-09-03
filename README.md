@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tdescartes
+- 👋 Hi, I’m Descartes Tuyishime.
 - 👀 I’m interested in Software Engineering and Machine Learning.
 - 🌱 I’m currently double-majoring in Computer Science and Data Analytics at Marist College.
 - 💞️ I’m looking to collaborate on software engineering projects.
